@@ -1,0 +1,63 @@
+.container 
+{
+	display: grid;
+    grid-template-columns: repeat( auto-fit, minmax(180px, 1fr) );
+}
+
+.product_box 
+{
+	text-align: center;
+	border-style: solid;
+	border-color: black;
+	border-width: 2px;
+	border-radius: 4px;
+}
+
+.product_box_border
+{
+	border-style: solid;
+	border-color: transparent;
+	border-width: 10px;
+}
+
+.left_align
+{
+	text-align: left;
+}
+
+.right_align
+{
+	float: right;
+	margin-right: 20px;
+}
+
+.top_button
+{
+	border: 2px outset black;
+	box-shadow: 3px 2px;
+}
+
+.label_products_font
+{
+	margin-left: 20px;
+	font-size: 1.4em;
+	font-family: sans-serif;
+	font-weight: 500;
+}
+
+.validation_warning
+{
+	border-color: red;
+}
+
+.notification_style
+{
+	text-align: center;
+	font-size: 19;
+	display: none;
+	color:white;
+	background-color: red;
+	font-weight: bold;
+	font-family: arial;
+	
+}
