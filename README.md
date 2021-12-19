@@ -1,5 +1,5 @@
 # h-productviewer
-Product viewer boilerplate writen in php
+Product viewer boilerplate written in php.
 
 Source code provided only for reading purposes. You are not allowed to modify, edit or redistribute this software.
 
